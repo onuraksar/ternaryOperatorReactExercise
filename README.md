@@ -1,0 +1,2 @@
+# ternaryOperatorReactExample
+Created with CodeSandbox
